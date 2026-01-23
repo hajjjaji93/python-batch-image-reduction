@@ -1,6 +1,9 @@
 # Python Batch Image Reduction Script
 
-A robust Python script to bulk compress and resize images within a directory. 
+A robust Python script to bulk compress and resize images within a directory.
+
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
 
 This tool is designed to drastically reduce file sizes (often by 90%+) by resizing images to HD standards and applying aggressive web-optimization, without overwriting your original files. Perfect for:
 
