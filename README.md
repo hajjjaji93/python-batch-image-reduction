@@ -1,4 +1,4 @@
-# Batch Image Reducer
+# Python Batch Image Reduction Script
 
 A robust Python script to bulk compress and resize images within a directory. 
 
