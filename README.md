@@ -2,7 +2,11 @@
 
 A robust Python script to bulk compress and resize images within a directory. 
 
-This tool is designed to drastically reduce file sizes (often by 90%+) by resizing images to HD standards and applying aggressive web-optimization, without overwriting your original files.
+This tool is designed to drastically reduce file sizes (often by 90%+) by resizing images to HD standards and applying aggressive web-optimization, without overwriting your original files. Perfect for:
+
+* Web Designers with lots of images to optimise.
+* Photographers prepping exports.
+* Developers who need a handy CLI tool.
 
 ## Features
 
